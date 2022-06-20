@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cost-manager-front/static/css/main.91826c8d.css",
+    "main.js": "/cost-manager-front/static/js/main.624a5694.js",
+    "index.html": "/cost-manager-front/index.html",
+    "main.91826c8d.css.map": "/cost-manager-front/static/css/main.91826c8d.css.map",
+    "main.624a5694.js.map": "/cost-manager-front/static/js/main.624a5694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91826c8d.css",
+    "static/js/main.624a5694.js"
+  ]
+}
