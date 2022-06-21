@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cost-manager-front/static/css/main.91826c8d.css",
-    "main.js": "/cost-manager-front/static/js/main.c1085f4a.js",
-    "index.html": "/cost-manager-front/index.html",
-    "main.91826c8d.css.map": "/cost-manager-front/static/css/main.91826c8d.css.map",
-    "main.c1085f4a.js.map": "/cost-manager-front/static/js/main.c1085f4a.js.map"
+    "main.css": "./static/css/main.91826c8d.css",
+    "main.js": "./static/js/main.d2ebed1b.js",
+    "index.html": "./index.html",
+    "main.91826c8d.css.map": "./static/css/main.91826c8d.css.map",
+    "main.d2ebed1b.js.map": "./static/js/main.d2ebed1b.js.map"
   },
   "entrypoints": [
     "static/css/main.91826c8d.css",
-    "static/js/main.c1085f4a.js"
+    "static/js/main.d2ebed1b.js"
   ]
 }
