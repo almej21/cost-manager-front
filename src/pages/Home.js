@@ -6,7 +6,10 @@ export default function Home() {
       <h1>The Cost Manager project</h1>
       <div className="home-container">
         <div className="almogCard">
-          <img src="../../almej.png" alt="almog"></img>
+          <img
+            src={process.env.PUBLIC_URL + "/images/almej.png"}
+            alt="almog"
+          ></img>
           <div className="almogCardDetails">
             <h4>ID: 209082858</h4>
             <h4>Almog Aharon</h4>
@@ -14,7 +17,10 @@ export default function Home() {
           </div>
         </div>
         <div className="almogCard">
-          <img src="../../naor.png" alt="naor"></img>
+          <img
+            src={process.env.PUBLIC_URL + "/images/naor.png"}
+            alt="naor"
+          ></img>
           <div className="almogCardDetails">
             <h4>ID: 207633165</h4>
             <h4>Naor Ori Gabay</h4>

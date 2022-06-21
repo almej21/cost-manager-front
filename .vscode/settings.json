@@ -6,6 +6,8 @@
         "Gabay",
         "Naor",
         "newcost",
-        "newuser"
+        "newuser",
+        "predeploy",
+        "userid"
     ]
 }

@@ -8,6 +8,7 @@ export default function Users() {
     async function fetchMyAPI() {
       var res = await fetch("http://localhost:4000/cost-manager/users");
       res = await res.json();
+      console.log(res);
       setUsers(res);
     }
     fetchMyAPI();
@@ -35,7 +36,6 @@ export default function Users() {
                     User ID: {user.user_id}
                     <br />
                     Birthday: {user.birthday} <br />
-                    Total sum: {user.total_sum} ILS
                   </Card.Text>
                 </Card.Body>
               </Card>

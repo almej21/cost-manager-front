@@ -25,7 +25,7 @@ export default function Report() {
         },
       })
       .then((res) => {
-        //console.log(res.data);
+        console.log(res.data);
         let report = res.data;
         report.forEach((item) => {
           totalSum += item.sum;
